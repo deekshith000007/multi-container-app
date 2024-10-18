@@ -17,7 +17,7 @@ MySQL (Backend): A MySQL 5.7 container serving as the database for the applicati
 1. Clone the repository:<br>
 git clone <repository-url><br>
 cd multi-container-app<br>
-
+<br>
 2. Build and run the application:<br>
 docker-compose build<br>
 docker-compose up<br>
