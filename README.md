@@ -2,7 +2,7 @@
 <p></p>This project demonstrates how to build and deploy a simple multi-container web application using Docker Compose. The application consists of a Flask frontend and a MySQL backend database, with Docker Compose managing both services.</p>
 </p>
 
-<h5>Prerequisites</h5>h5>
+<h5>Prerequisites</h5>
 - Docker installed on your system.
 - Docker Compose installed.
 - Basic knowledge of Python and MySQL.
