@@ -22,7 +22,7 @@ cd multi-container-app<br>
 docker-compose build<br>
 docker-compose up<br>
 This will start the Flask app on http://localhost:5000 and the MySQL database on port 3306.<br>
-
+<br>
 3. Access the Application:<br>
 Visit http://localhost:5000 for the Flask app.<br>
 Visit http://localhost:5000/db to check database connectivity.<br>
