@@ -2,14 +2,14 @@
 <p></p>This project demonstrates how to build and deploy a simple multi-container web application using Docker Compose. The application consists of a Flask frontend and a MySQL backend database, with Docker Compose managing both services.</p>
 
 <h5></h5>Project Structure</h5>
-<p></p>multi-container-app/
-│
-├── app/
-│   ├── app.py               # Flask app code
-│   └── requirements.txt      # Python dependencies
-│
-├── docker-compose.yml        # Docker Compose configuration
-└── Dockerfile                # Flask container setup
+<p></p>multi-container-app/<br>
+│<br>
+├── app/<br>
+│   ├── app.py               # Flask app code<br>
+│   └── requirements.txt      # Python dependencies<br>
+│<br>
+├── docker-compose.yml        # Docker Compose configuration<br>
+└── Dockerfile                # Flask container setup<br>
 </p>
 Prerequisites
 Docker installed on your system.
