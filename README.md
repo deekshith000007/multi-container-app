@@ -3,9 +3,9 @@
 </p>
 
 <h5>Prerequisites</h5>
-- Docker installed on your system.
-- Docker Compose installed.
-- Basic knowledge of Python and MySQL.
+ Docker installed on your system./n
+- Docker Compose installed./n
+- Python and MySQL./n
 
 The project includes two main services:
 
