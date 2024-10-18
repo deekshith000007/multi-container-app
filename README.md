@@ -3,13 +3,13 @@
 
 <h5></h5>Project Structure</h5>
 <p></p>multi-container-app/<br>
-│<br>
-├── app/<br>
-│   ├── app.py               # Flask app code<br>
-│   └── requirements.txt      # Python dependencies<br>
-│<br>
-├── docker-compose.yml        # Docker Compose configuration<br>
-└── Dockerfile                # Flask container setup<br>
+      │<br>
+      ├── app/<br>
+      │   ├── app.py               # Flask app code<br>
+      │   └── requirements.txt      # Python dependencies<br>
+      │<br>
+      ├── docker-compose.yml        # Docker Compose configuration<br>
+      └── Dockerfile                # Flask container setup<br>
 </p>
 Prerequisites
 Docker installed on your system.
